@@ -11,5 +11,6 @@
 - npm i
 
 [Documentation Eris](https://abal.moe/Eris/)
+[Lien d'installation de MySQL](https://www.mysql.com/downloads/)
 
 ## Enjoy !
